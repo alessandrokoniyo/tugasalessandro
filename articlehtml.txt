@@ -5,6 +5,20 @@ yang kemudian dapat diakses untuk menampilkan berbagai informasi di dalam sebuah
 HTML dapat juga digunakan sebagai link link antara file-file dalam situs atau dalam komputer dengan menggunakan localhost, 
 atau link yang menghubungkan antar situs dalam dunia internet.
 
-Sejarah HTML
+Struktur dasar HTML
 
-HTML dibuat oleh seorang ahli fisika dengan tim Berners Lee pada lembaga penelitian CERN yang ada di Swiss. Tim tersebut mempunyai ide mengenai sistem hypertext yang menggunakan basis internet. Tim Berners Lee mengeluarkan versi HTML yang pertama pada tahun 1991. Dalam versi tersebut terdapat 18 HTML tag. Hypertext merujuk pada teks yang terdapat referensi atau link untuk teks lain sehingga dapat diakses oleh pengguna.
+Berikut ini adalah struktur dasar dari HTML
+
+            <html> _________________________ 1
+
+                        <head>___________________ 2
+
+                                    <title></title>  _______ 3
+
+                        </head>
+
+                        <body>___________________ 4
+
+                        </body>
+
+            </html>
