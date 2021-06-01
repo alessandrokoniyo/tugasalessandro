@@ -4,3 +4,20 @@ HTML adalah singkatan dari HyperText Markup Language yaitu bahasa pemrograman st
 yang kemudian dapat diakses untuk menampilkan berbagai informasi di dalam sebuah penjelajah web Internet (Browser). 
 HTML dapat juga digunakan sebagai link link antara file-file dalam situs atau dalam komputer dengan menggunakan localhost, 
 atau link yang menghubungkan antar situs dalam dunia internet.
+Struktur dasar HTML
+
+Berikut ini adalah struktur dasar dari HTML
+
+            <html> _________________________ 1
+
+                        <head>___________________ 2
+
+                                    <title></title>  _______ 3
+
+                        </head>
+
+                        <body>___________________ 4
+
+                        </body>
+
+            </html>
