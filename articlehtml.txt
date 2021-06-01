@@ -4,3 +4,7 @@ HTML adalah singkatan dari HyperText Markup Language yaitu bahasa pemrograman st
 yang kemudian dapat diakses untuk menampilkan berbagai informasi di dalam sebuah penjelajah web Internet (Browser). 
 HTML dapat juga digunakan sebagai link link antara file-file dalam situs atau dalam komputer dengan menggunakan localhost, 
 atau link yang menghubungkan antar situs dalam dunia internet.
+
+Sejarah HTML
+
+HTML dibuat oleh seorang ahli fisika dengan tim Berners Lee pada lembaga penelitian CERN yang ada di Swiss. Tim tersebut mempunyai ide mengenai sistem hypertext yang menggunakan basis internet. Tim Berners Lee mengeluarkan versi HTML yang pertama pada tahun 1991. Dalam versi tersebut terdapat 18 HTML tag. Hypertext merujuk pada teks yang terdapat referensi atau link untuk teks lain sehingga dapat diakses oleh pengguna.
