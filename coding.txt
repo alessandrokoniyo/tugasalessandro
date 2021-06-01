@@ -1,0 +1,35 @@
+#!/bin/bash
+#Nama   : Alessandro Muh. Daffa Koniyo
+#NIM    : 531419068
+#Kelas  : C
+ 
+if [ $# -eq 0 ]
+then
+        echo "INPUT NAMA DAN JURUSAN"
+ 
+elif [ $# -eq 1 ]
+then
+        echo "Masukan Nama/Program"
+ 
+else
+        echo "Selamat datang $1 di Program $2"
+fi
+ 
+read -p "Apa Anda Seorang Mahasiswa Hukum? y/n :" STATUS
+case $STATUS in
+ 
+y)
+        echo "Mahasiswa Hukum";;
+n)
+        echo "Bukan Mahasiswa Hukum";;
+*)
+        echo "pilih y/n";;
+esac
+ 
+read -p "Semester ? :" SEMESTER
+case $SEMESTER in
+1|2)
+        echo "Mahasiswa Baru";;
+*)
+        echo "Mahasiswa Semester $SEMESTER";;
+esac
