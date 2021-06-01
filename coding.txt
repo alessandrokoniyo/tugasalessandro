@@ -1,5 +1,5 @@
 #!/bin/bash
-#Nama   : Alessandro Muh. Daffa Koniyo
+
 #NIM    : 531419068
 #Kelas  : C
  
